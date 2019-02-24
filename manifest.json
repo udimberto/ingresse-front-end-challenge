@@ -1,0 +1,15 @@
+{
+  "short_name": "TVmaze",
+  "name": "TVmaze by @udimberto",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f5b90a",
+  "background_color": "#101a4c"
+}
