@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "43c5c41bce6f5f7d5383e74976ac76c0",
-    "url": "/ingresse-front-end-challenge/static/media/custom.43c5c41b.woff"
+    "revision": "0b628ce3018820bc552f30025766ac6a",
+    "url": "/ingresse-front-end-challenge/static/media/custom-bold.0b628ce3.woff"
   },
   {
     "revision": "3b932277fa4752e4a895",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/ingresse-front-end-challenge/static/media/custom-bold.e665cc91.woff2"
   },
   {
-    "revision": "0b628ce3018820bc552f30025766ac6a",
-    "url": "/ingresse-front-end-challenge/static/media/custom-bold.0b628ce3.woff"
+    "revision": "43c5c41bce6f5f7d5383e74976ac76c0",
+    "url": "/ingresse-front-end-challenge/static/media/custom.43c5c41b.woff"
   },
   {
     "revision": "3b932277fa4752e4a895",

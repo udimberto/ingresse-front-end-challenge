@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ingresse-front-end-challenge/precache-manifest.d911011a34de41ba93545fc6a50630bd.js"
+  "/ingresse-front-end-challenge/precache-manifest.d52cfeff4414c444457502d42d7e2e4f.js"
 );
 
 workbox.clientsClaim();
